@@ -12,8 +12,8 @@ This repository contains a collection of sample project to demonstrate how to ru
 
 ## Framework Setup
 
-To set up the framework, you can clone the repository from (https://github.com//selenium-cucumber-java), or download the ZIP file and
-set it up in your local workspace.
+To set up the framework, you can clone the repository from (https://github.com/manasisahu/TestDemo1.git), or download the ZIP file and set it up in your local workspace.
+
 
 ## Running Sample Tests
 
