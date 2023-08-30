@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelInsurance", "TravelInsurance\TravelInsurance.csproj", "{89237AFD-1D06-4AF1-8640-F38C9D06AB90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelInsuranceTest", "TravelInsuranceTest\TravelInsuranceTest.csproj", "{09BAD58A-30C6-42A8-B8F5-5B47FAC26BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89237AFD-1D06-4AF1-8640-F38C9D06AB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89237AFD-1D06-4AF1-8640-F38C9D06AB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89237AFD-1D06-4AF1-8640-F38C9D06AB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89237AFD-1D06-4AF1-8640-F38C9D06AB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BAD58A-30C6-42A8-B8F5-5B47FAC26BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BAD58A-30C6-42A8-B8F5-5B47FAC26BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BAD58A-30C6-42A8-B8F5-5B47FAC26BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BAD58A-30C6-42A8-B8F5-5B47FAC26BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC84BDA0-9D18-4E06-A81D-3A4E3F9EB3E1}
+	EndGlobalSection
+EndGlobal
